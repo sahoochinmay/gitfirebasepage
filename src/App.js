@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { foodsRef } from './config/firebase';
 
 function App() {
   return (
